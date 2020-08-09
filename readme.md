@@ -19,16 +19,3 @@
 - COVID-19 tracker on top of the page under the header
 - Dark Mode
 
-
-//Pseudo Code
-
-
-
-
-
-
-
-
-
-Friday EOD: Repo set up, JS/CSS/HTML files linked, display a title, etc. in the browser to test README file mostly done (need deployment link, final screenshots)
-Weekend: Scaffold sections in the app, work on getting as MUCH done as possible over the weekend! The farther you get over the weekend, the better next week will go for you!
